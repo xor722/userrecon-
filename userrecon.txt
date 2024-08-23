@@ -1,0 +1,6 @@
+pkg update 
+pkg upgrade
+git clone https://github.com/wishihab/userrecon.git
+ls
+cd userrecon
+bash userrecon.sh
